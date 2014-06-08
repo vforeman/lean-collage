@@ -1,0 +1,23 @@
+{
+ "name" : "Lean-Collage",
+ "version" : "14.6.2",
+ "description" : "team project manager for multiple lean-canvases",
+ "keywords" : ["lean","canvas","collage","lean-collage"],
+ "author" : "Victor Foreman <vforeman@scs.howard.edu>",
+ "dependencies" : {
+ 	"backbone" : "1.1.2",
+ 	"express" : "4.4.1",
+ 	"requirejs" : "2.1.14",
+ 	"mustache" : "0.8.1",
+ 	"underscore" : "1.6.0",
+ 	"jquery" : "2.1.1",
+ 	"handlebars" : "2.0.0-alpha.4",
+ 	"mongodb" : "1.4.5",
+ 	"groupme" : "0.5.7",
+ 	"fs" : "0.0.1",
+ 	"oauth" : "0.9.12"
+
+
+ }
+
+}
